@@ -2,7 +2,7 @@
 
 Welcome to InstaBot! InstaBot is a powerful automation tool designed to help you increase your Instagram following, engagement, and visibility effortlessly. By automating actions such as following other users, commenting on posts, and liking content based on specified parameters, InstaBot saves you time and helps you grow your Instagram presence effectively.
 
-![instaBot](https://github.com/DulithaBandaranayake/instaBot/assets/121762938/8180313d-1658-4a54-bb31-b4b35c24624e) 
+![instaBot](https://github.com/DulithaBandaranayake/intaBot/assets/121762938/a40d2282-1fca-4811-9cd9-efba1c44721f)
 
 ## Special Note
 
